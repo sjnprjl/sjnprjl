@@ -20,3 +20,10 @@ const person = new Person({
 ```
 
 ![gobrhhhhhhh](https://github.com/sjnprjl/sjnprjl/blob/output/github-contribution-grid-snake.svg)
+
+# Stats!!
+![mah stats](https://github-readme-stats.vercel.app/api?username=sjnprjl&show_icons=true&theme=tokyonight&card_width=50) \
+
+# Most used languages of mine.
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnprjl&layout=compact)
+
