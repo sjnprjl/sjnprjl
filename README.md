@@ -10,10 +10,9 @@ class Person {
 }
 const person = new Person({
   name: 'Sujan Parajuli 😼',
-  skills: ['javascript', 'typescript', 'python', 'java'],
+  skills: ['javascript', 'typescript', 'python', 'java', 'C#'],
   social: {
-    linkedin: '/sujnprj',
-    facebook: '/sujn.prj',
+    linkedin: 'www.linkedin.com/in/parajuli-sujan',
   },
 });
 
